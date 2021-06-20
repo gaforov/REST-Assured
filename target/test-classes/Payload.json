@@ -1,0 +1,27 @@
+{
+  "instructor" : "Rafael",
+  "url" : "exelenter.com",
+  "services" : "Software Testing",
+  "expertise" : "Testing",
+  "courses" : {
+    "webAutomation" : [ {
+      "courseTitle" : "Selenium",
+      "price" : 4000
+    }, {
+      "courseTitle" : "Java",
+      "price" : 5000
+    } ],
+    "apiAutomation" : [ {
+      "courseTitle" : "REST-Assured",
+      "price" : 3000
+    }, {
+      "courseTitle" : "SOAP UI",
+      "price" : 3500
+    } ],
+    "mobileAutomation" : [ {
+      "courseTitle" : "Appium",
+      "price" : 4500
+    } ]
+  },
+  "linkedIn" : "linkedInId"
+}
